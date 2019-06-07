@@ -29,10 +29,6 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 
-
-com.dupersuperrepo.bluerectangle_0.0.1-1+debug_iphoneos-arm.deb
-
-
 Package: com.atomicfish.bluerectangle
 Version: 1.0.0-1
 Section: Test Tweaks
@@ -41,7 +37,7 @@ Depends: firmware (>10.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/com.dupersuperrepo.bluerectangle_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4130
-MD5sum:371ed6981ff27a0cc738071219174611
+MD5sum:371ed6981ff27a0cc738071219174612
 Description: A tweak that creates a beautiful blue square in the lock screen.
 Name: Asul Rectangle
 Author: Atomic Artic Fox <felipecarlin7@gmail.com>
